@@ -18,3 +18,10 @@ A tabela usada tem o formato 4 colunas com 7 linhas:
 3. Coluna com a quantidade de Bugs corrigidos no dia
 4. Coluna com a quantidade de Tarefas concluídas no dia
 
+Os relatórios são criados de forma automática usando o Pandas e o Numpy descrevendo a quantidade total e médias
+dos dados da tabela. Ao final temos um calculo de produtividade da equipe.
+
+
+tabela_print.png e powerBI.png são imagens usadas no MarkDown.
+tabela.csv é o arquivo que foi gerado e usado no powerBI.pbix.
+powerBI.pbix é o arquivo de PowerBi de onde veio a imagem para o MarkDown.
